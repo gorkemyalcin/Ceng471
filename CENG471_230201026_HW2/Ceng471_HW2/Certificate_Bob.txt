@@ -1,0 +1,6 @@
+Certificate Authority Name: Görkem
+Issuer Name: Bob
+Issuer Public Key: 8
+Prime: 23
+Generator: 2
+Signature of Certificate Authority: (16,14)

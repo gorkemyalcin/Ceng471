@@ -1,0 +1,6 @@
+Certificate Authority Name: Görkem
+Issuer Name: Alice
+Issuer Public Key: 16
+Prime: 23
+Generator: 2
+Signature of Certificate Authority: (6,20)
